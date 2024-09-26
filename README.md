@@ -91,8 +91,8 @@ Este projeto é licenciado sob a Licença GPL3 - veja o arquivo [LICENSE](LICENS
 
 Para dúvidas, sugestões ou feedback, entre em contato:
 
-- Email:sociedadepinguim#gmail.com
-- https://discord.gg/cvuzrPD
+- Email:sociedadepinguim@gmail.com
+- [Discord](https://discord.gg/cvuzrPD)
 - GitHub: [Sociedade Pinguim](https://github.com/sociedadePinguim)
 
 Agradecemos por utilizar os temas da Sociedade Pinguim! Esperamos que você tenha uma ótima experiência visual em seu desktop. 🐧
