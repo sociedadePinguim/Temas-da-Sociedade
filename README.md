@@ -8,7 +8,6 @@ Bem-vindo ao repositório **Temas da Sociedade Pinguim**! Aqui você encontrará
 
 - [Descrição](#descrição)
 - [Instalação](#instalação)
-- [Uso](#uso)
 - [Contribuição](#contribuição)
 - [Licença](#licença)
 - [Contato](#contato)
@@ -69,9 +68,6 @@ Após a seleção, você deve ver a nova aparência refletida em seu ambiente de
 
 Se precisar de mais informações ou ajustes, estou aqui para ajudar!
 
-## Uso
-
-Após a instalação, personalize sua área de trabalho com os temas disponíveis. Explore as opções e escolha o que mais combina com seu estilo!
 
 ## Contribuição
 
