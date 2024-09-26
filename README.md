@@ -32,19 +32,42 @@ Os temas da Sociedade Pinguim foram criados para oferecer uma estética moderna 
 
 ### Passos para instalação
 
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/sociedadePinguim/Temas-da-Sociedade.git
-   ```
 
-2. **Copie os temas para a pasta de temas do seu sistema:**
-   ```bash
-   cp -r Temas-da-Sociedade/themes/* ~/.themes/
-   cp -r Temas-da-Sociedade/icons/* ~/.icons/
-   ```
 
-3. **Selecione o tema:**
-   - Abra o GNOME Tweaks, nwg-look (ou ferramenta equivalente) e escolha o tema desejado nas seções "Aparência" para temas GTK e "Ícones" para ícones.
+1. **Baixe o repositório:**
+   - Clique no botão "Code" e selecione "Download ZIP".
+   - Extraia o arquivo ZIP em um local de sua escolha (por exemplo, na pasta Downloads).
+
+2. **Navegue até a pasta Home:**
+   - Abra o gerenciador de arquivos do seu sistema.
+   - Vá até a pasta "Home" (geralmente, é a pasta que se abre por padrão ao acessar o gerenciador de arquivos).
+
+3. **Exiba pastas ocultas:**
+   - No gerenciador de arquivos, pressione `Ctrl + H` para mostrar as pastas ocultas. Você deve ver pastas começando com um ponto (`.`), como `.themes` e `.icons`.
+   - Se não encontrar as pastas `.themes` e `.icons`, você precisará criá-las:
+     - Clique com o botão direito em um espaço vazio na pasta Home.
+     - Selecione "Nova Pasta" e crie uma pasta chamada `.themes`.
+     - Repita o processo e crie outra pasta chamada `.icons`.
+
+4. **Copie os temas para as pastas apropriadas:**
+   - Abra a pasta onde você extraiu os arquivos do repositório (por exemplo, a pasta Downloads).
+   - Abra a pasta "Temas-da-Sociedade".
+   - Dentro dela, você verá duas pastas: `Sociedade-Pinguim-Theme` e `Sociedade-Pinguim-Icones`.
+   - Basta copialas para seus locais apropriados como por exemplo a pasta `Sociedade-Pinguim-Icones` para pasta icones
+   - Não eesqueça de extrailas caso esteja em algum formato zipado com `Tar.GZ` ou `ZIP`
+
+5. **Selecione o tema:**
+   - Abra o GNOME Tweaks,nwg-look (ou uma ferramenta semelhante, como "Ajustes").
+   - Vá para a seção "Aparência".
+   - Escolha o tema desejado nas opções "Tema GTK" e "Tema de Ícones".
+
+### Verificação
+
+Após a seleção, você deve ver a nova aparência refletida em seu ambiente de desktop. Se algo não estiver aparecendo corretamente, verifique se os nomes das pastas e arquivos estão corretos nas localizações especificadas.
+
+---
+
+Se precisar de mais informações ou ajustes, estou aqui para ajudar!
 
 ## Uso
 
