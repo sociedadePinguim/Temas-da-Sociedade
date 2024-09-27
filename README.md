@@ -14,19 +14,19 @@ Bem-vindo ao repositório **Temas da Sociedade Pinguim**! Aqui você encontrará
 
 ## Descrição
 
-Os temas da Sociedade Pinguim foram criados para oferecer uma estética moderna e amigável, com ênfase na harmonia visual. Eles são projetados para se integrarem a diversos ambientes de desktop, como GNOME, XFCE e Mate.
+Os temas da Sociedade Pinguim foram criados para oferecer uma estética moderna e amigável, com ênfase na harmonia visual. Eles são projetados para se integrarem a diversos ambientes de desktop, como GNOME, Cinnamon, Unity, XFCE e Mate.
 
 ### Recursos
 
 - **Ícones personalizados:** Conjunto de ícones Baseados no Kora .
 - **Tema GTK3:** Estilo com cores harmoniosas e elementos visuais intuitivos.
-- **Compatibilidade:** Funciona com a maioria das distribuições Linux que suportam GTK3.
+- **Compatibilidade:** Funciona com a maioria das distribuições Linux que suportam GTK3 e ou GTK4.
 
 ## Instalação
 
 ### Pré-requisitos
 
-- Linux com suporte a GTK3
+- Linux com suporte a GTK3 e ou GTK4
 - Gerenciador de temas e ícones (ex.: GNOME Tweaks)
 
 ### Passos para instalação
