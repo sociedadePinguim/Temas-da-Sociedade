@@ -93,7 +93,7 @@ Para dúvidas, sugestões ou feedback, entre em contato:
 - GitHub: [Sociedade Pinguim](https://github.com/sociedadePinguim)
 
 ## Preview
--  ![Preview](https://github.com/sociedadePinguim/Temas-da-Sociedade/blob/main/photo_2024-09-26_21-20-20.jpg?raw=true)
+ ![Preview](https://github.com/sociedadePinguim/Temas-da-Sociedade/blob/main/photo_2024-09-26_21-20-20.jpg?raw=true)
 
 
 Agradecemos por utilizar os temas da Sociedade Pinguim! Esperamos que você tenha uma ótima experiência visual em seu desktop. 🐧
