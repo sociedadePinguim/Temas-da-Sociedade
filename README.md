@@ -2,7 +2,7 @@
 
  Temas da Sociedade Pinguim
 
-Bem-vindo ao repositório **Temas da Sociedade Pinguim**! Aqui você encontrará uma coleção de temas de ícones e GTK3 que visam proporcionar uma experiência visual única e agradável em ambientes de desktop Linux.
+Bem-vindo ao repositório **Temas da Sociedade Pinguim**! Aqui você encontrará uma coleção de temas de ícones e GTK3 e GTK4 que visam proporcionar uma experiência visual única e agradável em ambientes de desktop Linux.
 
 ## Índice
 
