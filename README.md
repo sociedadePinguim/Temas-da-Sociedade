@@ -19,7 +19,7 @@ Os temas da Sociedade Pinguim foram criados para oferecer uma estética moderna 
 
 ### Recursos
 
-- **Ícones personalizados:** Conjunto de ícones Baseados no Kora .
+- **Ícones personalizados:** Conjunto de ícones Baseados no Kora.
 - **Tema GTK3 e GTK4:** Estilo com cores harmoniosas e elementos visuais intuitivos.
 - **Compatibilidade:** Funciona com a maioria das distribuições Linux que suportam GTK3 e ou GTK4.
 
@@ -27,7 +27,7 @@ Os temas da Sociedade Pinguim foram criados para oferecer uma estética moderna 
 
 ### Pré-requisitos
 
-- Linux com suporte a GTK3 e ou GTK4
+- Linux com suporte a GTK3 e/ou GTK4
 - Gerenciador de temas e ícones (ex.: GNOME Tweaks)
 
 ### Passos para instalação
@@ -35,8 +35,8 @@ Os temas da Sociedade Pinguim foram criados para oferecer uma estética moderna 
 
 
 1. **Baixe o repositório:**
-   - Clique no botão "Code" e selecione "Download ZIP".
-   - Extraia o arquivo ZIP em um local de sua escolha (por exemplo, na pasta Downloads).
+   - Vá para [Realeses](https://github.com/sociedadePinguim/Temas-da-Sociedade/releases) e baixe os arquivos **tar.gz** mais recentes correspondentes ao tema e ícones.
+   - Extraia o arquivo **tar.gz** em um local de sua escolha (por exemplo, na pasta Downloads).
 
 2. **Navegue até a pasta Home:**
    - Abra o gerenciador de arquivos do seu sistema.
@@ -53,17 +53,17 @@ Os temas da Sociedade Pinguim foram criados para oferecer uma estética moderna 
    - Abra a pasta onde você extraiu os arquivos do repositório (por exemplo, a pasta Downloads).
    - Abra a pasta "Temas-da-Sociedade".
    - Dentro dela, você verá duas pastas: `Sociedade-Pinguim-Theme` e `Sociedade-Pinguim-Icones`.
-   - Basta copialas para seus locais apropriados como por exemplo a pasta `Sociedade-Pinguim-Icones` para pasta icones
-   - Não eesqueça de extrailas caso esteja em algum formato zipado com `Tar.GZ` ou `ZIP`
+   - Basta copiá-las para seus locais apropriados, como por exemplo a pasta `Sociedade-Pinguim-Icones` para pasta icones
+   - Não se esqueça de extraí-los caso esteja em algum formato zipado como `tar.gz` ou `zip`
 
 5. **Selecione o tema:**
-   - Abra o GNOME Tweaks,nwg-look (ou uma ferramenta semelhante, como "Ajustes").
+   - Abra o gnome-tweaks (ajustes), nwg-look (ou uma ferramenta semelhante).
    - Vá para a seção "Aparência".
    - Escolha o tema desejado nas opções "Tema GTK" e "Tema de Ícones".
 
 ### Verificação
 
-Após a seleção, você deve ver a nova aparência refletida em seu ambiente de desktop. Se algo não estiver aparecendo corretamente, verifique se os nomes das pastas e arquivos estão corretos nas localizações especificadas.
+Após a seleção, você deve ver a nova aparência refletida em seu ambiente de desktop (talvez seja necessário reiniciar a sessão). Se algo não estiver aparecendo corretamente, verifique se os nomes das pastas e arquivos estão corretos nas localizações especificadas.
 
 ---
 
@@ -88,8 +88,8 @@ Este projeto é licenciado sob a Licença GPL3 - veja o arquivo [LICENSE](LICENS
 
 Para dúvidas, sugestões ou feedback, entre em contato:
 
-- Email:sociedadepinguim@gmail.com
-- [Discord](https://discord.gg/cvuzrPD)
+- Email: sociedadepinguim@gmail.com
+- Discord Server: [Sociedade Pinguim](https://discord.gg/cvuzrPD)
 - GitHub: [Sociedade Pinguim](https://github.com/sociedadePinguim)
 
 ## Preview
