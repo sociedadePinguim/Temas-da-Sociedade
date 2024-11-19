@@ -21,7 +21,7 @@ Os temas da Sociedade Pinguim foram criados para oferecer uma estética moderna 
 
 - **Ícones personalizados:** Conjunto de ícones Baseados no Kora.
 - **Tema GTK3 e GTK4:** Estilo com cores harmoniosas e elementos visuais intuitivos.
-- **Wallpaper**  Wallpaper cheio de referencias d o Linux e da Sociedade Pinguim 
+- **Wallpaper**  Wallpaper cheio de referencias ao mundo Linux e da Sociedade Pinguim 
 - **Compatibilidade:** Funciona com a maioria das distribuições Linux que suportam GTK3 e ou GTK4.
 
 ## Instalação
