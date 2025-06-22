@@ -15,7 +15,7 @@ Bem-vindo ao repositório **Temas da Sociedade Pinguim**! Aqui você encontrará
 
 ## Descrição
 
-Os temas da Sociedade Pinguim foram criados para oferecer uma estética moderna e amigável, com ênfase na harmonia visual. Eles são projetados para se integrarem a diversos ambientes de desktop, como GNOME, Cinnamon, Unity, XFCE e Mate.
+Os temas da Sociedade Pinguim foram criados para oferecer uma estética moderna e amigável, com ênfase na harmonia visual. Eles são projetados para se integrarem a diversos ambientes de desktop, como GNOME, Cinnamon, Unity, XFCE ,Mate entre outros .
 
 ### Recursos
 
